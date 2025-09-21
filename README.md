@@ -1,3 +1,7 @@
 before you use make sure you have the executer of the roblox scripts this wont work, only if you have the script and executer
 
 the sigmasaken isnt even finished and all theses songs are not made by me all of them are maded by their owners and some songs are still in progress into the script be release
+
+⚠️warning⚠️
+some songs can get risk of copyright for the script i guess maybe without asking to their owners it can get removed or maybe files removed or their owners ask to remove
+*i didnt read the Github rules...*
